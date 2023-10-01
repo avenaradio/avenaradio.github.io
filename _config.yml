@@ -34,6 +34,8 @@ navigation: ########################################## ALL MUST BE UPDATED with 
     url: /tags
   - text: Über
     url: /about
+  - text: RSS
+    url: /feed.xml
 
 # The shortname for your Disqus site to enable comments.
 #disqus: justgoodthemes
