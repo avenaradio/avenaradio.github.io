@@ -31,9 +31,9 @@ navigation: ########################################## ALL MUST BE UPDATED with 
   - text: Home
     url: /
   - text: Kategorien
-    url: /tags/
+    url: /tags
   - text: Über
-    url: /about/
+    url: /about
 
 # The shortname for your Disqus site to enable comments.
 #disqus: justgoodthemes
