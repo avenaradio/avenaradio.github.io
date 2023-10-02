@@ -3,7 +3,7 @@ layout: post
 author: avenaradio
 title: Hafermilch wie aus dem Bioladen - mit Enzymen selber fermentieren
 description: So kannst du ganz einfach Hafermilch selber machen, die weder schleimig ist, noch nach Mehl schmeckt!
-date: 2023-10-01
+date: 2023-10-02
 feature_image: images/00001.0.jpg
 tags:
   - küche
