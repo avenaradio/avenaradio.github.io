@@ -15,7 +15,7 @@ Du hast dich wahrscheinlich auch immer gefragt: "Warum schmeckt gekaufte Hafermi
 
 Der Grund ist, dass die Stärke im Hafer durch Amylase in Einfachzucker aufgespalten wird. "Enthält von Natur aus Zucker" hängt also davon ab, wie man "Natur" definiert.
 
-Die passenden Enzyme für Getreidemilch in Bio-Qualität, ohne Gentechnik, lokal, vegan und plastikfrei gibt es [hier](https://www.nectarbar.de/shop/enzyme-hafer-getreidedrinks/).
+Die passenden Enzyme für Getreidemilch in Bio-Qualität, ohne Gentechnik, lokal, vegan und plastikfrei gibt es <a href="https://www.nectarbar.de/shop/enzyme-hafer-getreidedrinks/" target="_blank" rel="noopener noreferrer">hier</a>.
 
 # Und so geht's
 ## Zutaten
