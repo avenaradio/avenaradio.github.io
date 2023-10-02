@@ -6,8 +6,8 @@ description: So kannst du ganz einfach Hafermilch selber machen, die weder schle
 date: 2023-10-01
 feature_image: images/00001.0.jpg
 tags:
-  - "#hafer"
   - küche
+  - hafer
 ---
 Du hast wahrscheinlich auch schon aus allen Samen die dir eingefallen sind versucht Milch herzustellen aber kein Ergebnis war zufriedenstellend, bis auf Mandelmilch, teuer ist und nicht sehr umweltfreundlich.
 
