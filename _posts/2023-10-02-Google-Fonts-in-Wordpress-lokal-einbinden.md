@@ -4,7 +4,7 @@ author: avenaradio
 title: Google Fonts in Wordpress lokal einbinden - kostenlos mit wenig Aufwand
 description: Google Fonts auf Wordpress lokal einbinden mit einem kostenlosen Plugin
 date: 2023-10-02
-feature_image: images/00002.0.jpg
+feature_image: images/00002.0.png
 tags:
   - web
 ---
