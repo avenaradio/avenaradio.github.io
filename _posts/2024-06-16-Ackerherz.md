@@ -10,7 +10,7 @@ tags:
   - lebensmittel
   - günstig
 ---
-### +++ Sichere dir <a href="/ackerherz" target="_blank">20€ Rabatt auf deinen Mitgliedsbeitrag von Ackerherz</a>! +++
+### +++ Sichere dir mit einem Rabattgutschein von mir <a href="/ackerherz" target="_blank">20€ Rabatt auf deinen Mitgliedsbeitrag von Ackerherz</a>! +++
 
 Bei Ackerherz bekommst du Biolebensmittel bis zu 50% reduziert! Das Konzept ist eigentlich sehr einfach: Du schließt eine Mitgliedschaft ab, und kannst dann ganz normal bestellen. Ein Probemonat ist kostenlos, danach liegt der Mitgliedsbeitrag bei 3,90€ im Monat, was auf ein Jahr gerechnet 46,80€ ist. Das hat sich in der Regel allerdings schon nach zwei bis drei Bestellungen rentiert.
 Der Versand ist ab einem Bestellwert von 49€ kostenlos und Haushalte mit einem Geringen Einkommen bekommen die Mitgliedschaft sogar geschenkt. 
